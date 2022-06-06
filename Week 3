@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 st.title( "Adult income")
-df=pd.read_csv('/Users/NimaDorji/Deskt
+df=pd.read_csv('/Users/UgyenGazom/Deskt
 st.write(df)
 st.header('age distribution')
 arr1= df [ 'age' ]
